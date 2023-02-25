@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-row {
+    margin: 8px;
+    text-align: left;
+}
+
+.form-label {
+    display: block;
+}
